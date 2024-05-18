@@ -2,7 +2,7 @@
     "name": "Lab8-Starter",
     "short_name": "Yuvanand",
     "description": "Recipes",
-    "start_url": "/?source=pwa",
+    "start_url": "https://yuvasaro.github.io/Lab8-Starter?source=pwa",
     "display": "standalone",
     "background_color": "white",
     "theme_color": "blue",
